@@ -1,0 +1,10 @@
+C:\Users\mahmo\source\repos\sec4\bin\Debug\sec4.exe.config
+C:\Users\mahmo\source\repos\sec4\bin\Debug\sec4.exe
+C:\Users\mahmo\source\repos\sec4\bin\Debug\sec4.pdb
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.Form1.resources
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.Properties.Resources.resources
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.exe
+C:\Users\mahmo\source\repos\sec4\obj\Debug\sec4.pdb

@@ -1,0 +1,10 @@
+C:\Users\mahmo\source\repos\sec5\bin\Debug\sec5.exe.config
+C:\Users\mahmo\source\repos\sec5\bin\Debug\sec5.exe
+C:\Users\mahmo\source\repos\sec5\bin\Debug\sec5.pdb
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.Form1.resources
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.Properties.Resources.resources
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.exe
+C:\Users\mahmo\source\repos\sec5\obj\Debug\sec5.pdb
